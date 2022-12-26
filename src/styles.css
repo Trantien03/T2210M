@@ -25,7 +25,7 @@ ul li{
   font-family: 'Poppins', sans-serif;
 }
 .sidebar{
-  width: 220px;
+  width: 250px;
   margin-left: 0;
   background-color: rgb(241, 241, 241);
 }
@@ -36,13 +36,13 @@ ul li{
   color: #000;
 }
 .menu .main li{
-  line-height: 49.2px;
+  line-height: 50px;
   list-style: none;
-  padding: 1px  45px;
+  padding: 0.1px 50px;
 }
 .menu .main li:hover{
   background: rgb(0, 132, 255);
-  width: 220px;
+  width: 250px;
   color: #fff;
 }
 .main .active {
@@ -51,10 +51,11 @@ ul li{
 }
 .content{
   border: 0.1px solid #949494;
-  height: 81px;
+  height: 110px;
+  width : 400px;
 }
 .main-items{
-  margin: 5px 0;
+  margin: 3px 0;
 }
 .icon-items i{
   width: 50px;
